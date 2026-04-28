@@ -198,11 +198,33 @@ I enjoy developing full-stack applications and integrating AI into practical wor
   <img src="assets/section-divider.svg" alt="Divider" width="100%" />
 </p>
 
+<p align="center">
+  If you'd like to connect about opportunities, projects, or ideas, reach me here:
+</p>
+
 <table>
   <tr>
-    <td width="33%" align="center"><a href="https://www.linkedin.com/in/wh0321">LinkedIn</a></td>
-    <td width="33%" align="center"><a href="mailto:liewweihong0017@gmail.com">Email</a></td>
-    <td width="33%" align="center"><a href="https://weihong0321.vercel.app/">Portfolio</a></td>
+    <td width="33%" align="center" valign="top">
+      <strong>LinkedIn</strong><br>
+      <a href="https://www.linkedin.com/in/wh0321">
+        <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+      </a><br>
+      <sub>Best for recruiting, networking, and professional updates.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <strong>Email</strong><br>
+      <a href="mailto:liewweihong0017@gmail.com">
+        <img src="https://img.shields.io/badge/Message-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email">
+      </a><br>
+      <sub>Best for direct opportunities and project discussions.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <strong>Portfolio</strong><br>
+      <a href="https://weihong0321.vercel.app/">
+        <img src="https://img.shields.io/badge/View%20Work-F24E1E?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio">
+      </a><br>
+      <sub>Best for a quick look at projects and live demos.</sub>
+    </td>
   </tr>
 </table>
 
