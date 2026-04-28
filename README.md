@@ -138,13 +138,6 @@ I enjoy developing full-stack applications and integrating AI into practical wor
 
 **Tech Stack:** `Next.js` `FastAPI` `TypeScript` `Python`
 
-### Mental Health App
-- Built a mobile app with voice journaling, therapy sessions, and mood tracking
-- Implemented using Android Studio, Java, and Firebase
-- Added data storage and retrieval for a more personalized user experience
-
-**Tech Stack:** `Java` `Android Studio` `Firebase`
-
 
 
 ## Contact
