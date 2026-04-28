@@ -1,0 +1,51 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Weihong profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#120F1F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="260" y1="40" x2="1350" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F24E1E"/>
+      <stop offset="0.5" stop-color="#0A66C2"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <filter id="blur" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" rx="32" fill="url(#bg)"/>
+  <circle cx="260" cy="120" r="110" fill="#F24E1E" opacity="0.18" filter="url(#blur)"/>
+  <circle cx="1380" cy="110" r="130" fill="#0A66C2" opacity="0.16" filter="url(#blur)"/>
+  <circle cx="1120" cy="320" r="160" fill="#22C55E" opacity="0.12" filter="url(#blur)"/>
+  <path d="M130 315C350 230 485 140 670 150C845 160 975 290 1145 258C1280 233 1380 155 1485 120" stroke="url(#accent)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M125 315C345 230 480 140 665 150C840 160 970 290 1140 258C1275 233 1375 155 1480 120" stroke="white" stroke-opacity="0.12" stroke-width="1.5" stroke-linecap="round"/>
+
+  <rect x="104" y="64" width="220" height="48" rx="24" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.10"/>
+  <text x="140" y="95" fill="#E5EEF9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2">
+    SOFTWARE ENGINEERING
+  </text>
+
+  <text x="104" y="214" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800">
+    Weihong
+  </text>
+  <text x="108" y="262" fill="#D7E3FB" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="500">
+    Full-stack builder | AI workflows | Hackathon finalist
+  </text>
+
+  <g transform="translate(108 300)">
+    <rect width="160" height="46" rx="23" fill="#F24E1E" fill-opacity="0.18" stroke="#F24E1E" stroke-opacity="0.5"/>
+    <text x="24" y="30" fill="#FFF3EE" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Build. Ship. Iterate.</text>
+  </g>
+
+  <g transform="translate(1290 72)">
+    <rect width="196" height="58" rx="18" fill="white" fill-opacity="0.05" stroke="white" stroke-opacity="0.10"/>
+    <text x="28" y="36" fill="#E5EEF9" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">AI + Full-stack</text>
+  </g>
+
+  <g transform="translate(1340 302)">
+    <circle cx="0" cy="0" r="10" fill="#22C55E"/>
+    <text x="20" y="7" fill="#CFE7D6" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Open to opportunities</text>
+  </g>
+</svg>

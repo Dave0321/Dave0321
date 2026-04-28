@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="assets/profile-banner.svg" alt="Weihong profile banner" width="100%" />
+
   <h1>Hi, I'm Weihong</h1>
   <h3>Y2 Software Engineering @ Universiti Malaya</h3>
 
@@ -6,38 +8,24 @@
     I build full-stack products, integrate AI into practical workflows, and enjoy turning ambitious ideas into systems people can actually use.
   </p>
 
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=F24E1E&center=true&vCenter=true&width=760&lines=Full-stack+builder+%7C+AI+workflow+enthusiast;Hackathon+finalist+%7C+Problem+solver;Turning+ideas+into+real+products"
-    alt="Typing animation"
-  />
-
   <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <a href="https://www.linkedin.com/in/wh0321">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:YOUR_EMAIL">
+    <a href="mailto:liewweihong0017@gmail.com">
       <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://YOUR_PORTFOLIO">
+    <a href="https://weihong0321.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
     </a>
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=F24E1E&style=flat" alt="Profile views">
     <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full--Stack-111111?style=flat&logo=github" alt="Focus">
     <img src="https://img.shields.io/badge/Status-Building%20%26%20shipping-0A66C2?style=flat&logo=githubactions&logoColor=white" alt="Status">
+    <img src="https://img.shields.io/badge/Style-Bold%20%26%20reliable-F24E1E?style=flat&logo=github" alt="Style">
   </p>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" alt="GitHub trophies">
-</p>
 
 ---
 
@@ -141,7 +129,7 @@ I enjoy developing full-stack applications and integrating AI into practical wor
 
 ## Contact
 
-- LinkedIn: https:www.linkedin.com/in/wh0321
+- LinkedIn: https://www.linkedin.com/in/wh0321
 - Email: `liewweihong0017@gmail.com`
 - Portfolio: `https://weihong0321.vercel.app/`
 
@@ -150,7 +138,3 @@ I enjoy developing full-stack applications and integrating AI into practical wor
 <div align="center">
   <strong>Open to opportunities where I can build impactful products with speed, quality, and ownership.</strong>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
-</p>
