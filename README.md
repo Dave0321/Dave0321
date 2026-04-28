@@ -88,14 +88,14 @@ I enjoy developing full-stack applications and integrating AI into practical wor
 
 | Position | Hackathon | Year | Description | Link |
 | --- | --- | --- | --- | --- |
-| Top 20 Finalist | VHack | 2026 | Built a predictive maintenance platform to minimize machine downtime in SMEs, with monitoring, scheduling, cost analysis, and AI-based anomaly detection. | [View Project](https://github.com/TeohJunZe/AntiFault) |
+
 | Top 42 Semi-final | Deriv AI Hackathon | 2026 | Built Zero HR, an end-to-end autonomous HR platform combining role-based access control, a Claude + ChromaDB + RAG chatbot grounded in company policies, and streamlined workflows for leave, contracts, compliance, performance tracking, messaging, and organization-wide analytics. | [View Project](https://github.com/xianyang-05/Zero_HR) |
 | Participants | TNG Digital FinHack | 2026 | Developed Dual Mind, an AWS-based AI red-team platform for AML detection that automates adversarial scenario generation, defender scoring, and retraining workflows to improve fraud detection. | [View Project](#) |
 | Top 20 Finalist | UM Hack | 2026 | Built GrantHunter, a full-stack Next.js + FastAPI AI grant copilot for Malaysian SMEs that uses a multi-agent pipeline to extract company profiles, scout and rank grant opportunities, score readiness, and generate submission-ready proposals, pitch decks, and packaged documents. | [View Project](#) |
 | Participants | KitaHack Google | 2026 | Built NextGenDebate, an AI-driven hiring platform with candidate screening, automated interview generation, and evaluation insights to support better recruitment decisions. | [View Project](https://github.com/xianyang-05/OpenHire) |
 | Participants | CodeNection Hack | 2025 | Built EcoSwap, a sustainability-focused platform designed to support item swapping, reuse, and low-waste community exchange. | [View Project](#) |
-| 1st Runner Up | SDG XI Hackathon | 2025 | Built an electricity monitoring system supporting SDG 7 with Python backend modeling, TypeScript application logic, and energy optimization features. | [View Project](https://github.com/yongjeen2409/PowerPulse) |
-| 2nd Runner Up | UM Technothon | 2024 | Developed an amphibious robot capable of navigating land and water to deliver emergency supplies, integrated with AI, sensors, and real-time monitoring. | [View Project](https://github.com/xianyang-05/Amphibot) |
+
+
 
 ## Projects
 
@@ -113,19 +113,7 @@ I enjoy developing full-stack applications and integrating AI into practical wor
 
 **Tech Stack:** `Java` `Android Studio` `Firebase`
 
-### Cash Flow Predictor
-- Analyzed financial data to identify cash flow patterns
-- Built a Linear Regression model to predict future cash flow
-- Developed dashboards for visualization and decision-making
 
-**Tech Stack:** `Python` `Machine Learning` `Data Visualization`
-
-## What Makes This Profile Strong
-
-- Clear focus on full-stack and AI-powered problem solving
-- Strong hackathon track record with ranked results
-- Practical project work that shows product thinking, not just code
-- Tools and technologies relevant to modern software engineering roles
 
 ## Contact
 
