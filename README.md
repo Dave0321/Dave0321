@@ -177,17 +177,17 @@ I enjoy developing full-stack applications and integrating AI into practical wor
   <tr>
     <td width="68%" valign="top">
       <ul>
-        <li>Built a workflow-focused project to help teams move faster through review, collaboration, and delivery</li>
-        <li>Designed to reduce friction in development handoffs and make engineering execution more efficient</li>
-        <li>Focused on practical utility, clean UX, and system reliability</li>
+        <li>Built an Android emergency support app for reporting SOS situations, tracking nearby incidents on a live map, and staying connected through a community feed</li>
+        <li>Integrated location tracking, realtime alerts, emergency routing, user profiles, and favorites into a fast mobile-first experience</li>
+        <li>Designed the app around practical safety use cases with Supabase-backed auth, storage, and realtime incident updates</li>
       </ul>
     </td>
     <td width="32%" valign="top">
       <strong>Stack</strong><br>
-      <code>Next.js</code><br>
-      <code>FastAPI</code><br>
-      <code>TypeScript</code><br>
-      <code>Python</code>
+      <code>Android</code><br>
+      <code>Java</code><br>
+      <code>Kotlin</code><br>
+      <code>Supabase</code>
     </td>
   </tr>
 </table>
