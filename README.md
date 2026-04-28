@@ -29,6 +29,40 @@
 
 ---
 
+## Featured Highlights
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>AI + Full-Stack</strong><br>
+      I like building products where the frontend, backend, data, and AI all work together.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Hackathon Ready</strong><br>
+      I move quickly, ship under pressure, and turn ideas into polished demos and working systems.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Product Mindset</strong><br>
+      I care about usefulness, clarity, and the end user experience, not just implementation.
+    </td>
+  </tr>
+</table>
+
+## Visual Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="Divider" width="100%" />
+</p>
+
 ## About Me
 
 I am a software engineering student with a strong interest in building intelligent systems that solve real-world problems.
@@ -45,10 +79,10 @@ I enjoy developing full-stack applications and integrating AI into practical wor
 
 | Field | Details |
 | --- | --- |
-| Name | Weihong |
-| Degree | Y2 Software Engineering |
-| University | Universiti Malaya |
-| Interests | Full-stack systems, AI workflows, hackathons, product building |
+| `Name` | Weihong |
+| `Degree` | Y2 Software Engineering |
+| `University` | Universiti Malaya |
+| `Interests` | Full-stack systems, AI workflows, hackathons, product building |
 
 ## Tech Stack
 
@@ -85,6 +119,10 @@ I enjoy developing full-stack applications and integrating AI into practical wor
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ## Hackathon Experience
+
+<p align="center">
+  <img src="assets/section-divider.svg" alt="Divider" width="100%" />
+</p>
 
 <table>
   <thead>
@@ -128,23 +166,45 @@ I enjoy developing full-stack applications and integrating AI into practical wor
   </tbody>
 </table>
 
-
 ## Projects
 
+<p align="center">
+  <img src="assets/section-divider.svg" alt="Divider" width="100%" />
+</p>
+
 ### MergeAid
-- Built a workflow-focused project to help teams move faster through review, collaboration, and delivery
-- Designed to reduce friction in development handoffs and make engineering execution more efficient
-- Focused on practical utility, clean UX, and system reliability
-
-**Tech Stack:** `Next.js` `FastAPI` `TypeScript` `Python`
-
-
+<table>
+  <tr>
+    <td width="68%" valign="top">
+      <ul>
+        <li>Built a workflow-focused project to help teams move faster through review, collaboration, and delivery</li>
+        <li>Designed to reduce friction in development handoffs and make engineering execution more efficient</li>
+        <li>Focused on practical utility, clean UX, and system reliability</li>
+      </ul>
+    </td>
+    <td width="32%" valign="top">
+      <strong>Stack</strong><br>
+      <code>Next.js</code><br>
+      <code>FastAPI</code><br>
+      <code>TypeScript</code><br>
+      <code>Python</code>
+    </td>
+  </tr>
+</table>
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/wh0321
-- Email: `liewweihong0017@gmail.com`
-- Portfolio: `https://weihong0321.vercel.app/`
+<p align="center">
+  <img src="assets/section-divider.svg" alt="Divider" width="100%" />
+</p>
+
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="https://www.linkedin.com/in/wh0321">LinkedIn</a></td>
+    <td width="33%" align="center"><a href="mailto:liewweihong0017@gmail.com">Email</a></td>
+    <td width="33%" align="center"><a href="https://weihong0321.vercel.app/">Portfolio</a></td>
+  </tr>
+</table>
 
 ---
 
