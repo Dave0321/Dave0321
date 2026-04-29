@@ -163,6 +163,13 @@ I enjoy developing full-stack applications and integrating AI into practical wor
       <td>Built NextGenDebate, an AI-driven hiring platform with candidate screening, automated interview generation, and evaluation insights to support better recruitment decisions.</td>
       <td><a href="https://github.com/Dave0321/NextGenDebate.git">View Project</a></td>
     </tr>
+    <tr>
+      <td>Participants</td>
+      <td>codeNection</td>
+      <td>2025</td>
+      <td>Built EasyClaim, a digital-first car insurance platform for the CodeNection Hackathon that combines real-time typo detection for vehicle details, secure decentralized insurance data storage, and AI-powered vehicle damage assessment from accident photos.</td>
+      <td><a href="https://github.com/Dave0321/EasyClaim.git">View Project</a></td>
+    </tr>
   </tbody>
 </table>
 
