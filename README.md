@@ -139,35 +139,35 @@ I enjoy developing full-stack applications and integrating AI into practical wor
       <td>Top 42 Semi-final</td>
       <td>Deriv AI Hackathon</td>
       <td>2026</td>
-      <td>Built Zero HR, an end-to-end autonomous HR platform combining role-based access control, a Claude + ChromaDB + RAG chatbot grounded in company policies, and streamlined workflows for leave, contracts, compliance, performance tracking, messaging, and organization-wide analytics.</td>
+      <td>Zero HR , an end to end autonomous HR platform combining role-based access control, a Claude + ChromaDB + RAG chatbot grounded in company policies, and streamlined workflows for leave, contracts, compliance, performance tracking, messaging, and organization-wide analytics.</td>
       <td><a href="https://github.com/Dave0321/ZeroHR.git">View Project</a></td>
     </tr>
     <tr>
       <td>Participants</td>
       <td>TNG Digital FinHack</td>
       <td>2026</td>
-      <td>Developed Dual Mind, an AWS-based AI red-team platform for AML detection that automates adversarial scenario generation, defender scoring, and retraining workflows to improve fraud detection.</td>
+      <td>Dual Mind , an AWS-based AI red-team platform for AML detection that automates adversarial scenario generation, defender scoring, and retraining workflows to improve fraud detection.</td>
       <td><a href="https://github.com/Dave0321/DualMind.git">View Project</a></td>
     </tr>
     <tr>
-      <td>Top 20 Finalist</td>
+      <td>Participants</td>
       <td>UM Hack</td>
       <td>2026</td>
-      <td>Built GrantHunter, a full-stack Next.js + FastAPI AI grant copilot for Malaysian SMEs that uses a multi-agent pipeline to extract company profiles, scout and rank grant opportunities, score readiness, and generate submission-ready proposals, pitch decks, and packaged documents.</td>
+      <td>GrantHunter, a full-stack Next.js + FastAPI AI grant copilot for Malaysian SMEs that uses a multi-agent pipeline to extract company profiles, scout and rank grant opportunities, score readiness, and generate submission-ready proposals, pitch decks, and packaged documents.</td>
       <td><a href="https://github.com/Dave0321/GrantHunter.git">View Project</a></td>
     </tr>
     <tr>
       <td>Participants</td>
       <td>KitaHack Google</td>
       <td>2026</td>
-      <td>Built NextGenDebate, an AI-driven hiring platform with candidate screening, automated interview generation, and evaluation insights to support better recruitment decisions.</td>
+      <td>NextGenDebate ,an AI-driven hiring platform with candidate screening, automated interview generation, and evaluation insights to support better recruitment decisions.</td>
       <td><a href="https://github.com/Dave0321/NextGenDebate.git">View Project</a></td>
     </tr>
-    <tr>
+    <tr>    
       <td>Participants</td>
       <td>codeNection</td>
       <td>2025</td>
-      <td>Built EasyClaim, a digital-first car insurance platform for the CodeNection Hackathon that combines real-time typo detection for vehicle details, secure decentralized insurance data storage, and AI-powered vehicle damage assessment from accident photos.</td>
+      <td>EasyClaim, a digital-first car insurance platform for the CodeNection Hackathon that combines real-time typo detection for vehicle details, secure decentralized insurance data storage, and AI-powered vehicle damage assessment from accident photos.</td>
       <td><a href="https://github.com/Dave0321/EasyClaim.git">View Project</a></td>
     </tr>
   </tbody>
@@ -184,7 +184,7 @@ I enjoy developing full-stack applications and integrating AI into practical wor
   <tr>
     <td width="68%" valign="top">
       <ul>
-        <li>Built an Android emergency support app for reporting SOS situations, tracking nearby incidents on a live map, and staying connected through a community feed</li>
+        <li>Android emergency support app for reporting SOS situations, tracking nearby incidents on a live map, and staying connected through a community feed</li>
         <li>Integrated location tracking, realtime alerts, emergency routing, user profiles, and favorites into a fast mobile-first experience</li>
         <li>Designed the app around practical safety use cases with Supabase-backed auth, storage, and realtime incident updates</li>
       </ul>
