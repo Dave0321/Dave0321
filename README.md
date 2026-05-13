@@ -150,7 +150,7 @@ I enjoy developing full-stack applications and integrating AI into practical wor
       <td><a href="https://github.com/Dave0321/DualMind.git">View Project</a></td>
     </tr>
     <tr>
-      <td>Participants</td>
+      <td>Winner</td>
       <td>UM Hack</td>
       <td>2026</td>
       <td>GrantHunter, a full-stack Next.js + FastAPI AI grant copilot for Malaysian SMEs that uses a multi-agent pipeline to extract company profiles, scout and rank grant opportunities, score readiness, and generate submission-ready proposals, pitch decks, and packaged documents.</td>
