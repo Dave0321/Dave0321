@@ -142,6 +142,20 @@ I enjoy developing full-stack applications and integrating AI into practical wor
       <td>Eco Synce , an AI Native Ecosystem Orchestration Engine. It is a startup mentor matching platform powered by Google Gemini, Firebase Authentication, and a multi-stage AI pipeline built on FastAPI + Supabase vector storage..</td>
       <td><a href="https://github.com/Dave0321/EcoSync">View Project</a></td>
     </tr>
+      <tr>
+      <td>Winner</td>
+      <td>UM Hack</td>
+      <td>2026</td>
+      <td>GrantHunter, a full-stack Next.js + FastAPI AI grant copilot for Malaysian SMEs that uses a multi-agent pipeline to extract company profiles, scout and rank grant opportunities, score readiness, and generate submission-ready proposals, pitch decks, and packaged documents.</td>
+      <td><a href="https://github.com/Dave0321/GrantHunter.git">View Project</a></td>
+    </tr>
+     <tr>
+      <td>Finalist</td>
+      <td>KitaHack Google</td>
+      <td>2026</td>
+      <td>NextGenDebate ,an AI-driven hiring platform with candidate screening, automated interview generation, and evaluation insights to support better recruitment decisions.</td>
+      <td><a href="https://github.com/Dave0321/NextGenDebate.git">View Project</a></td>
+    </tr>
     <tr>
       <td>Top 42 Semi-final</td>
       <td>Deriv AI Hackathon</td>
@@ -155,20 +169,6 @@ I enjoy developing full-stack applications and integrating AI into practical wor
       <td>2026</td>
       <td>Dual Mind , an AWS-based AI red-team platform for AML detection that automates adversarial scenario generation, defender scoring, and retraining workflows to improve fraud detection.</td>
       <td><a href="https://github.com/Dave0321/DualMind.git">View Project</a></td>
-    </tr>
-    <tr>
-      <td>Winner</td>
-      <td>UM Hack</td>
-      <td>2026</td>
-      <td>GrantHunter, a full-stack Next.js + FastAPI AI grant copilot for Malaysian SMEs that uses a multi-agent pipeline to extract company profiles, scout and rank grant opportunities, score readiness, and generate submission-ready proposals, pitch decks, and packaged documents.</td>
-      <td><a href="https://github.com/Dave0321/GrantHunter.git">View Project</a></td>
-    </tr>
-    <tr>
-      <td>Finalist</td>
-      <td>KitaHack Google</td>
-      <td>2026</td>
-      <td>NextGenDebate ,an AI-driven hiring platform with candidate screening, automated interview generation, and evaluation insights to support better recruitment decisions.</td>
-      <td><a href="https://github.com/Dave0321/NextGenDebate.git">View Project</a></td>
     </tr>
     <tr>    
       <td>Participants</td>
