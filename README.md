@@ -135,6 +135,13 @@ I enjoy developing full-stack applications and integrating AI into practical wor
     </tr>
   </thead>
   <tbody>
+     <tr>    
+      <td>Winner</td>
+      <td>GDG KL hackathon</td>
+      <td>2026</td>
+      <td>Eco Synce , an AI Native Ecosystem Orchestration Engine. It is a startup mentor matching platform powered by Google Gemini, Firebase Authentication, and a multi-stage AI pipeline built on FastAPI + Supabase vector storage..</td>
+      <td><a href="https://github.com/Dave0321/EasyClaim.git">View Project</a></td>
+    </tr>
     <tr>
       <td>Top 42 Semi-final</td>
       <td>Deriv AI Hackathon</td>
